@@ -28,7 +28,7 @@ Presentamos un bot de Discord diseñado para valoraciones de productos a través
 
 ![Captura de Pantalla 2](https://i.postimg.cc/6p9KHLJy/Captura-de-pantalla-2024-09-05-234819.png) <!-- Reemplaza con la URL de tu imagen -->
 
-![Captura de Pantalla 3](https://i.postimg.cc/rDDXNJHs/Captura-de-pantalla-2024-09-05-234819.webp) <!-- Reemplaza con la URL de tu imagen -->
+![Captura de Pantalla 3](https://i.postimg.cc/K8FG6hLc/Captura-de-pantalla-2024-10-02-165453.png) <!-- Reemplaza con la URL de tu imagen -->
 
 ## 🔧 Instalación
 
