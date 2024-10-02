@@ -48,3 +48,14 @@ vete a la carpeta /install/ abre el archivo .BAT
 Abre el CMD con la carpeta del BOT
 
 y pon "npm init -y" y "npm install discord.js"
+
+Despues, debes configurar todo en el config.json, token, roles, canales.
+```
+
+## ⚖️ Licencia
+
+Este proyecto está bajo la Licencia MIT. Consulta el archivo LICENSE para más detalles.
+
+## Support 🙍‍♂️
+
+En el caso de haber configurado todo y no logrado hacerlo funcionar envie solicitud de amistad a traves de discord a: **kw.dev**
