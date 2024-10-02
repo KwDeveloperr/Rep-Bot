@@ -1,0 +1,41 @@
+{
+    "token": "BOT_TOKEN",
+    "channelId": "CHANNEL_ID",
+    "guildId": "SERVER_ID",
+    "roles": {
+        "spanishRoleId": "ROL_SPANISH_ID",
+        "englishRoleId": "ROL_ENGLISH_ID"
+    },
+    "locales": {
+        "es": {
+            "watchingMembers": "miembros",
+            "reviewCommand": "Enviar una reseña de producto",
+            "keyword": ["rep"],
+            "reviewTitle": "🛠 ¿Cómo usar el comando de reseña?",
+            "reviewDescription": "Para dejar una reseña de un producto, puedes usar el comando `/rep` o hacer clic en el botón de abajo.",
+            "reviewInstructions": "Este comando abrirá un formulario donde podrás ingresar el **producto**, la **puntuación** (1-5) y tu **opinión**.",
+            "formTitle": "Nueva Reseña",
+            "productLabel": "Producto",
+            "ratingLabel": "Puntuación (1-5)",
+            "opinionLabel": "Opinión",
+            "errorRating": "Error: La puntuación debe ser un número entre 1 y 5.",
+            "reviewSent": "¡Tu reseña ha sido enviada!",
+            "channelError": "Error: No se encontró el canal de reseñas."
+        },
+        "en": {
+            "watchingMembers": "members",
+            "reviewCommand": "Submit a product review",
+            "keyword": ["rep"],
+            "reviewTitle": "🛠 How to use the review command?",
+            "reviewDescription": "To submit a product review, you can use the `/rep` command or click the button below.",
+            "reviewInstructions": "This command will open a form where you can enter the **product**, **rating** (1-5), and your **opinion**.",
+            "formTitle": "New Review",
+            "productLabel": "Product",
+            "ratingLabel": "Rating (1-5)",
+            "opinionLabel": "Opinion",
+            "errorRating": "Error: The rating must be a number between 1 and 5.",
+            "reviewSent": "Your review has been submitted!",
+            "channelError": "Error: Review channel not found."
+        }
+    }
+}
