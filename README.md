@@ -34,6 +34,8 @@ Presentamos un bot de Discord diseñado para valoraciones de productos a través
 Sigue estos pasos para instalar el proyecto en tu máquina local:
 
 ```bash
-  vete a la carpeta /install/ abre el archivo .BAT
-  Abre el CMD con la carpeta del BOT
-  y pon "npm init -y" y "npm install discord.js"
+vete a la carpeta /install/ abre el archivo .BAT
+
+Abre el CMD con la carpeta del BOT
+
+y pon "npm init -y" y "npm install discord.js"
