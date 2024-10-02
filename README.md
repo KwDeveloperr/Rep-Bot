@@ -21,6 +21,8 @@ Presentamos un bot de Discord diseñado para valoraciones de productos a través
 - Comandos Interactivos
 - Feedback en Tiempo Real
 
+<br></br>
+
 - Ratings through Forms
 - Role System by Language
 - Simple Configuration
